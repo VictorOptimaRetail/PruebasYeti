@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./documentation.component.scss']
 })
 export class DocumentationComponent {
-  title = 'angular-jeti';
+  title = 'angular-yeti';
 }

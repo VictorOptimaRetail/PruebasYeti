@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 
-import '../../../assets/login-animation.js';
+import 'src/assets/login-animation.js';
 
 @Component({
   selector: 'app-login',
